@@ -13,6 +13,8 @@ python3 signal_analyser.py target_file.mp3 directory
 Please replace target_file.mp3 and directory with your actual file and directory paths. The script will output the top 5 audio files from the directory that are most similar to the target file.
 
 # Installation
+```
 1. git clone https://github.com/sp0ttybug/sdr_audio_analyzer.git.
 2. cd sdr_audio_analyzer.
 3. pip install -r requirements.txt
+```

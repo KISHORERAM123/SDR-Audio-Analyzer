@@ -8,7 +8,7 @@ You can manually add as many samples as you wish in the directory for comparison
 
 # Usage
 ```
-python3 signal_analyser.py target_file.mp3 directory
+python signal_analyser.py target_file.mp3 directory
 ```
 Please replace target_file.mp3 and directory with your actual file and directory paths. The script will output the top 5 audio files from the directory that are most similar to the target file.
 

@@ -1,0 +1,5 @@
+numpy==1.21.2
+librosa==0.8.1
+fastdtw==0.3.4
+scipy==1.7.1
+tqdm==4.62.3
